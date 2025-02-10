@@ -13,13 +13,5 @@ if(media >= 7){
 }
 
 else if(media < 7){
-    console.log('Infelizente você não foi Aprovado');
-}
-
-if(media < 7){
-    console.log(Recuperação);
-}
-
-else if(media < 7){
-    console.log('Sua media foi muito, você está Reprovado');
+    console.log('Sua media foi muito baixa, você está Reprovado');
 }
